@@ -348,3 +348,5 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/BlazorApp/BlazorApp/.config/dotnet-tools.json
+/BlazorApp/BlazorApp/Properties/ServiceDependencies/cicd01 - Zip Deploy/profile.arm.json
